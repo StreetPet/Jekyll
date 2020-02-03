@@ -1,0 +1,4 @@
+[submodule "jekyll-theme-naveenshaji-material"]
+	path = jekyll-theme-naveenshaji-material
+	url = https://github.com/StreetPet/jekyll-theme-naveenshaji-material
+	branch = streetpet_newsite
